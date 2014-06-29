@@ -1,7 +1,8 @@
-maven-archetype-templates
+###H3maven-archetype-templates
+
 This repository contains commonly used Maven Archetype Templates.
 
-Installation:
+##H2Installation:
 
 1. git clone https://github.com/chinageek/maven-archetype-templates.git
 
