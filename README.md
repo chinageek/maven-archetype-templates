@@ -1,9 +1,9 @@
-##maven-archetype-templates
+#maven-archetype-templates
 
 This repository contains commonly used Maven Archetype Templates.
 
 
-#Installation:
+##Installation:
 
 1. git clone https://github.com/chinageek/maven-archetype-templates.git
 
